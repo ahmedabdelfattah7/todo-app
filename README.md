@@ -5,7 +5,7 @@ A new Flutter project.
 ## Getting Started
 
 This project is a starting point for a Flutter application.
-![WhatsApp Image 2022-07-28 at 1 53 38 AM](https://user-images.githubusercontent.com/65439051/181393493-1aad01ba-85e3-4f75-afc8-a64686405152.jpeg)
+
 
 A few resources to get you started if this is your first Flutter project:
 
@@ -20,7 +20,7 @@ samples, guidance on mobile development, and a full API reference.
 
 https://user-images.githubusercontent.com/65439051/181397455-212ef58c-32c4-4929-9e59-fc2dfc4f80fe.mp4
 
-#screebShots
+#screenShots
 
 ![WhatsApp Image 2022-07-28 at 1 53 35 AM (1)](https://user-images.githubusercontent.com/65439051/181397230-9132f321-3f47-4018-a662-1333ce054d29.jpeg)
 ![WhatsApp Image 2022-07-28 at 1 53 38 AM](https://user-images.githubusercontent.com/65439051/181397238-e5b2f161-be12-434f-a18a-d9bab34d5418.jpeg)
