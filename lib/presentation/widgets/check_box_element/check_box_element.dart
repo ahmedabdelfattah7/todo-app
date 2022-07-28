@@ -59,6 +59,7 @@ class TaskCheckBoxBuilder extends StatelessWidget {
                 AppCubit.get(context).deleteData(
                   id: item['id'],
                 );
+
                 cubit.Notification().showNotificationWithPayload(
                     id: 0,
                     title: '${item['title']}',

@@ -3,7 +3,7 @@ import 'package:flutter/services.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:todoapp/core/cubit/app_cubit.dart';
 import 'package:todoapp/presentation/board_screen//board_layout/board_screen.dart';
-import 'bloc_observer.dart';
+import 'utils/the_bloc_observer/bloc_observer.dart';
 
 void main() async{
   WidgetsFlutterBinding.ensureInitialized();
