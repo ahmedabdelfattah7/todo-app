@@ -30,7 +30,8 @@ https://user-images.githubusercontent.com/65439051/181397455-212ef58c-32c4-4929-
 
 ![WhatsApp Image 2022-07-28 at 1 53 37 AM (1)](https://user-images.githubusercontent.com/65439051/181397286-c3f34f46-e525-46fa-8e46-f0d6af8e279e.jpeg)
 
-![WhatsApp Image 2022-07-28 at 1 53 37 AM (1)](https://user-images.githubusercontent.com/65439051/181397293-f66264b9-2663-4984-a2d5-3d180b2f614c.jpeg)
+![WhatsApp Image 2022-07-28 at 1 53 37 AM (2)](https://user-images.githubusercontent.com/65439051/181398728-e43c6b71-050e-400f-bc1d-42577f41ae0f.jpeg)
+
 
 ![WhatsApp Image 2022-07-28 at 1 53 36 AM](https://user-images.githubusercontent.com/65439051/181397301-f5bbe36a-368f-4f19-bb3c-6756d485b285.jpeg)
 
